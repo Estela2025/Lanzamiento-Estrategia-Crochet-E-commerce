@@ -1,22 +1,27 @@
-# 🎯 Estrategia de Captación de Leads (Email Marketing)
+# 🎯 Estrategia de Marketing Digital y Ejecución (Iteración Continua)
 
-Este documento detalla el uso de una Landing Page externa para capturar leads (correos electrónicos) antes de dirigir al cliente a la plataforma de venta final (Artesanal.es).
+Esta sección documenta la estrategia de ejecución digital, incluyendo las herramientas de prueba y las soluciones de diseño utilizadas para la captación de tráfico y conversión.
 
-## 📝 Herramienta y Oferta (Lead Magnet)
+## 1. 🎨 Herramientas de Diseño y Contenido Visual
 
-| Concepto | Detalle |
-| :--- | :--- |
-| **Herramienta de Captura** | MailerLite (Página de Suscripción) |
-| **URL de Landing Page** | https://subscribepage.io/envio-gratis-crochet |
-| **Oferta (Lead Magnet)** | Código de "Envío Gratis" para el primer pedido. |
-| **Objetivo** | Transformar el tráfico frío (de RRSS) en contactos de email cualificados, construyendo una base de datos propia. |
+| Concepto | Detalle | Rol Estratégico |
+| :--- | :--- | :--- |
+| **Canva** | Diseño gráfico y edición | Creación de Pines de alta conversión para Pinterest (verticales y optimizados para el clic) e imágenes para el feed de Instagram/Facebook. Garantiza una imagen de marca **consistente** y profesional. |
+| **TikTok/Reels** | Vídeo marketing | Generación de **alcance masivo** (Viralidad) con contenido dinámico y llamadas a la acción directas al perfil de la tienda. |
 
-## 🔗 Integración con Plataformas
+## 2. 📧 Prueba de Captación de Leads (Email Marketing)
 
-La Landing Page de MailerLite es el único enlace clicable visible en el perfil de TikTok.
+Se implementó una fase de prueba con una Landing Page externa para capturar leads (correos electrónicos).
 
-* **Ruta del Cliente (Embudo):** RRSS → Landing Page (Suscripción Email) → Email de Bienvenida (con Cupón de Envío Gratis) → Tienda Final.
+| Concepto | Detalle | Conclusión de la Prueba (Iteración) |
+| :--- | :--- | :--- |
+| **Herramienta** | MailerLite (Página de Suscripción) | **Se observó baja tasa de conversión.** El cliente prefiere la venta directa o el contenido de valor sin fricción. |
+| **Oferta (Lead Magnet)** | Código de "Envío Gratis" para el primer pedido. | **La estrategia se ha reorientado** a dirigir todo el tráfico de RRSS (incluido Pinterest) directamente a la tienda de Artesanal.es para maximizar la conversión inmediata (Venta Directa). |
 
-## 📈 Resultados Deseados
+## 3. 📈 KPI's a Monitorear (Próxima Semana)
 
-La efectividad de esta página se medirá por la **Tasa de Conversión** (porcentaje de visitantes que se suscriben) y la **Tasa de Apertura** del email de bienvenida.
+Los indicadores clave de rendimiento (KPI's) para la próxima fase se centran en el tráfico y la venta:
+
+* **Tasa de Click (CTR):** Clics desde Pinterest/TikTok al perfil de Artesanal.es.
+* **Visitas al Perfil:** Tráfico orgánico generado por las RRSS.
+* **Conversiones:** Venta final de gorros (Objetivo principal).
