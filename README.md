@@ -30,13 +30,22 @@ La estrategia se centró en un modelo **See-Think-Do-Care** adaptado al nicho ar
 
 ## 📊 Resultados y Análisis Iniciales
 
-*(Aquí añadirás datos reales una vez que los obtengas de MailerLite y las redes sociales).*
+## 4. 🚀 Fase de Ejecución y Métricas Clave (Q4 2025)
 
-| Métrica | Valor Clave | Observaciones / Aprendizajes |
+Esta sección documenta la ejecución de la estrategia de contenido y los primeros KPIs obtenidos tras la optimización de los activos digitales.
+
+### 🎥 Estrategia de Contenido: Generación de Autoridad y Alcance Masivo
+
+* **Activo Creado:** Video animado que aborda una confusión terminológica clave en el sector: las múltiples nomenclaturas del **Punto Alto (Vareta/Double Crochet)** a nivel global.
+* **Objetivo Estratégico:** **Posicionar la marca** como experta y generar un **activo de alto valor** para atraer tráfico nuevo y masivo al embudo de venta.
+* **Resultados Iniciales (TikTok):** 793+ visualizaciones en las primeras 24h. Este alcance demuestra la efectividad de la estrategia de contenido para generar **visibilidad inmediata**.
+
+### 📈 KPIs de Tráfico y Conversión (Pinterest y Plataforma)
+
+| Métrica | Resultado | Interpretación Analítica |
 | :--- | :--- | :--- |
-| **Nuevos Suscriptores** | XX (Nº de emails capturados) | Muestra la efectividad del Lead Magnet de Envío Gratis. |
-| **Visualizaciones Totales** | XX.XXX | Suma de Reels de TikTok + Meta, destacando el canal más fuerte. |
-| **Tasa de Clics (Landing Page)** | X% | Indica la calidad del tráfico proveniente de las redes sociales. |
+| **Visualizaciones Artesanal.es** | 90+ | El contenido de RRSS está canalizando tráfico directo y constante a la plataforma de venta (+17% de crecimiento). |
+| **Clics Salientes (Pinterest)** | 8+ Clics en Total | **Validación de Conversión:** El tráfico de alta intención de compra está abandonando Pinterest para visitar Artesanal.es. ||
 
 ## 📁 Explorar el Proyecto
 
