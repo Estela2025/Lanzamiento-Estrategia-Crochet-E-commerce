@@ -1,106 +1,77 @@
+📌 README – Análisis_Resultados
 📝 Mini Resumen Ejecutivo – Proyecto E-commerce Artesanal
 
 Este proyecto analiza la fase inicial de lanzamiento digital de una línea de artículos de crochet artesanal, evaluando la efectividad de la estrategia multicanal y el comportamiento del usuario en la tienda online.
 
 Principales hallazgos:
 
-El idioma del contenido influye significativamente en alcance e interacción: italiano y francés generan mayor engagement, alemán y inglés menor.
+Idioma del contenido impacta significativamente en alcance e interacción: italiano y francés generan mayor engagement, alemán e inglés menor.
 
-El formato vídeo corto supera ampliamente a las imágenes estáticas en alcance.
+Formato vídeo corto supera ampliamente a imágenes estáticas.
 
-Las métricas muestran interés internacional: tráfico principal de EE.UU., España y Reino Unido.
+Interés internacional: tráfico principal de EE.UU., España y Reino Unido.
 
-Plataformas secundarias (Instagram, Facebook, Pinterest) aportan visibilidad y tráfico residual, aunque con menor interacción directa.
+Plataformas secundarias (Instagram, Facebook, Pinterest) aportan visibilidad y tráfico residual.
 
-La migración a Payhip permite medir la intención de compra y facilita el análisis de comportamiento del usuario.
+La migración a Payhip permite medir intención de compra y analizar comportamiento del usuario.
 
-Este análisis demuestra capacidad de extracción de insights, interpretación de métricas y planteamiento de mejoras continuas, alineado con un perfil de investigación y análisis de datos.
-
-📊 Análisis de Resultados Iniciales – Proyecto E-commerce Artesanal
+📊 Análisis de Resultados Iniciales
 📝 Origen de los Datos
 Plataforma	Métrica	Uso
-TikTok Analytics	Visualizaciones por vídeo, likes, comentarios	Medición del alcance y la interacción por idioma y formato.
-Instagram / Meta (Reels / Feed)	Visualizaciones y likes	Comparación del rendimiento con TikTok y validación del alcance secundario.
-Facebook	Clicks a la tienda (Payhip)	Evaluación de la eficacia como canal de tráfico residual.
-Pinterest	Visualizaciones, clics	Análisis de crecimiento orgánico y tráfico derivado.
-Payhip	Visualizaciones de la tienda, visitas directas y por red social	Medición de la intención de compra y distribución geográfica del tráfico.
+TikTok Analytics	Visualizaciones, likes, comentarios	Alcance e interacción por idioma y formato
+Instagram / Meta	Visualizaciones y likes	Comparación con TikTok y alcance secundario
+Facebook	Clicks a Payhip	Tráfico residual
+Pinterest	Visualizaciones, clics	Crecimiento orgánico y tráfico derivado
+Payhip	Visualizaciones y visitas directas	Intención de compra y distribución geográfica
 🔍 Resultados por Plataforma
 1️⃣ TikTok
 Idioma	Visualizaciones	Likes	Comentarios	Observaciones
-Italiano	871	28	varios	Mayor engagement; contenido educativo y narrativo con storytelling eficaz
+Italiano	871	28	varios	Mayor engagement; contenido educativo y narrativo
 Francés	804	18	algunos	Buen rendimiento; interacción moderada
-Alemán	778	0	0	Alcance alto, poca interacción → interés informativo pero menor conexión emocional
+Alemán	778	0	0	Alcance alto, poca interacción → interés informativo
 Inglés	318	0	0	Primer vídeo; menor optimización y menor alcance
-
-Conclusión:
-
-Idioma influye en alcance e interacción.
-
-Formato vídeo supera imágenes previas (alcance 250 → 700+).
-
-Contenido educativo/narrativo funciona mejor que mensaje de venta directa.
-
 2️⃣ Instagram
 Idioma	Visualizaciones	Likes
-Inglés	114	1+
-Italiano	114	0+
-Francés	131	1+
-Alemán	109	0
-
-Conclusión:
-
-Aumento respecto a etapa anterior (antes <5 visualizaciones).
-
-Plataforma secundaria; visibilidad buena pero interacción baja.
-
+Inglés	  114	              1+
+Italiano	114	              0+
+Francés   131	              1+
+Alemán	  109	              0
 3️⃣ Facebook
 
 Clics a Payhip: 4 visitas
-Conclusión: Canal de tráfico residual efectivo pese a bajo engagement visible.
 
 4️⃣ Pinterest
 
 Visualizaciones: crecimiento lento pero constante
 
 Clics: 8 en total
-Conclusión: Canal de crecimiento orgánico a largo plazo.
 
-5️⃣ Payhip – Análisis de tráfico
+5️⃣ Payhip
 Métrica	Total	Comentarios
-Visualizaciones	165	Principalmente EE.UU. (103), España (68), Reino Unido (20), India (1)
-Visitas directas	189	Incluye tráfico de redes sociales y visitas manuales
-Clics provenientes de Facebook	4	Confirmación de tráfico residual
-
-Conclusión:
-
-Interés internacional incluso sin campañas de pago.
-
-Señales de intención de compra claras en fase temprana.
-
-Migración a Payhip permite medir comportamiento de usuario.
-
+Visualizaciones	165	Principalmente EE.UU., España, Reino Unido, India
+Visitas directas	189	Incluye tráfico de RRSS y manual
+Clics provenientes de Facebook	4	Tráfico residual
 🧠 Aprendizajes Clave
 
-Idioma y enfoque narrativo impactan significativamente en alcance e interacción.
+Idioma y enfoque narrativo impactan significativamente en alcance e interacción
 
-Formato vídeo corto supera ampliamente imágenes estáticas.
+Formato vídeo corto supera imágenes estáticas
 
-Interacciones no siempre se traducen en tráfico directo, pero permiten identificar interés real.
+Interacciones no siempre generan tráfico directo, pero identifican interés real
 
-Distribución geográfica revela audiencias internacionales inesperadas.
+Distribución geográfica revela audiencias internacionales inesperadas
 
-🔜 Próximos Pasos de Análisis
+🔜 Próximos Pasos
 
-Profundizar en horarios y días óptimos de publicación.
+Analizar horarios y días óptimos de publicación
 
-Repetir contenidos en idiomas con mayor engagement.
+Repetir contenidos en idiomas con mayor engagement
 
-Monitorear evolución del tráfico y correlación con nuevas publicaciones.
+Monitorear evolución del tráfico y correlación con nuevas publicaciones
 
-Preparar dataset metricas_iniciales.csv con todas las métricas para demostrar limpieza y análisis de datos.
+Preparar dataset metricas_iniciales.csv para mostrar limpieza y análisis de datos
 
-Evaluar futuras iteraciones de contenido educativo/narrativo y medir impacto en intención de compra.
+Evaluar iteraciones de contenido educativo/narrativo y medir impacto en intención de compra
+📊 Mini Gráfico Resumen
 
-🔹 Nota:
-Este análisis refleja fase exploratoria, enfocado en métricas y aprendizaje.
-Los resultados cuantitativos y conclusiones permiten demostrar pensamiento analítico y capacidad de extracción de insights, clave para un perfil de investigación/analista de datos.
+📊 Gráfico Resumen – Métricas Iniciales
