@@ -1,6 +1,6 @@
 🧶 Lanzamiento Digital: Línea de Artículos de Crochet Artesanal
 
-Proyecto práctico de marketing digital centrado en el lanzamiento de una línea de artículos de crochet, combinando contenido creativo, captación de leads y optimización del proceso de compra.
+Proyecto práctico de marketing digital centrado en el lanzamiento de una línea de artículos artesanales de crochet, combinando contenido creativo, captación de leads y optimización del proceso de compra.
 
 1. 🎯 Objetivo
 
@@ -9,7 +9,7 @@ Mostrar la capacidad de planificar, ejecutar y medir una estrategia de lanzamien
 2. 🛠️ Stack del Proyecto
 Categoría	Herramienta
 E-commerce (Fase 1)	Artesanal.es
-E-commerce (Fase 2)	PayHit (compra directa)
+E-commerce (Fase 2)	PayHip (compra directa)
 Email Marketing	MailerLite
 Diseño y Creatividad	Canva + IA
 Redes Sociales	TikTok · Instagram/Facebook Reels · Pinterest
@@ -27,16 +27,16 @@ Pinterest: pines evergreen para tráfico constante.
 
 Transparencia: Uso de la etiqueta “Contenido Generado por IA”.
 
-4. 🔄 Actualización Clave: Migración Artesanal.es → PayHit
+4. 🔄 Actualización Clave: Migración Artesanal.es → PayHip
 
 Artesanal.es (Fase 1): requería contacto directo para comprar.
 
-PayHit (Fase 2): compra inmediata sin fricción.
+PayHip (Fase 2): compra inmediata sin fricción.
 ✔️ Resultado: aumento de visualizaciones, clics y mejores señales de intención de compra.
 
 5. 📊 Resultados Destacados
 
-+90 visualizaciones combinadas (Artesanal.es + PayHit).
++90 visualizaciones combinadas (Artesanal.es + PayHip).
 
 +8 clics salientes desde Pinterest.
 
