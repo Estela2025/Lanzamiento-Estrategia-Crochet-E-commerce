@@ -1,57 +1,54 @@
-🧶 Lanzamiento Digital: Línea de Artículos de Crochet Artesanal
+# 🧶 Proyecto de Marketing Digital y Análisis de un Negocio Artesanal
 
-Proyecto práctico de marketing digital centrado en el lanzamiento de una línea de artículos artesanales de crochet, combinando contenido creativo, captación de leads y optimización del proceso de compra.
+Proyecto práctico centrado en la planificación y análisis de una estrategia digital para una línea de artículos artesanales de crochet, combinando contenido creativo, herramientas de marketing y seguimiento de indicadores de rendimiento (KPIs).
 
-1. 🎯 Objetivo
+## 1. 🎯 Objetivo
 
-Mostrar la capacidad de planificar, ejecutar y medir una estrategia de lanzamiento multicanal, desde la creación de contenido hasta la optimización del embudo de conversión.
+Mostrar la capacidad de planificar, ejecutar y analizar una estrategia de marketing digital multicanal, desde la creación de contenido hasta el seguimiento del tráfico y el comportamiento de los usuarios.
 
-2. 🛠️ Stack del Proyecto
-Categoría	Herramienta
-E-commerce (Fase 1)	Artesanal.es
-E-commerce (Fase 2)	PayHip (compra directa)
-Email Marketing	MailerLite
-Diseño y Creatividad	Canva + IA
-Redes Sociales	TikTok · Instagram/Facebook Reels · Pinterest
-3. 🚀 Estrategia Aplicada
+## 2. 🛠️ Stack del Proyecto
 
-Lead Magnet: Envío Gratis a cambio de suscripción (MailerLite).
+| Categoría | Herramientas |
+|---|---|
+| E-commerce | Payhip |
+| Email Marketing | MailerLite |
+| Diseño y Creatividad | Canva + IA |
+| Redes Sociales | TikTok · Instagram/Facebook Reels · Pinterest |
+| Análisis de datos | KPIs, métricas de tráfico y visualización de resultados |
 
-Contenido Multicanal:
+## 3. 🚀 Estrategia Aplicada
 
-TikTok: proceso y storytelling ("Crochet como Terapia").
+**Lead Magnet:** propuesta de envío gratuito a cambio de suscripción mediante MailerLite.
 
-Meta (Reels): reutilización optimizada con hashtags mixtos.
+**Contenido multicanal:**
 
-Pinterest: pines evergreen para tráfico constante.
+- **TikTok:** vídeos del proceso creativo y storytelling ("Crochet como Terapia").
+- **Meta (Reels):** adaptación y reutilización de contenido con hashtags mixtos.
+- **Pinterest:** creación de pines evergreen para favorecer el tráfico a largo plazo.
 
-Transparencia: Uso de la etiqueta “Contenido Generado por IA”.
+**Transparencia:** identificación del contenido generado mediante herramientas de inteligencia artificial (IA).
 
-4. 🔄 Actualización Clave: Migración Artesanal.es → PayHip
+## 4. 🔄 Evolución de la Estrategia E-commerce
 
-Artesanal.es (Fase 1): requería contacto directo para comprar.
+Desarrollo de una primera fase de comercialización mediante contacto directo y posterior incorporación de Payhip como plataforma de compra directa.
 
-PayHip (Fase 2): compra inmediata sin fricción.
-✔️ Resultado: aumento de visualizaciones, clics y mejores señales de intención de compra.
+Esta evolución permitió analizar diferentes procesos de compra y observar cambios en las visualizaciones, los clics y las señales de interés de los usuarios.
 
-5. 📊 Resultados Destacados
+## 5. 📊 Resultados Históricos Destacados
 
-+90 visualizaciones combinadas (Artesanal.es + PayHip).
+- Más de 90 visualizaciones combinadas durante el periodo inicial de análisis.
+- Más de 8 clics salientes desde Pinterest.
+- Variaciones en las visualizaciones tras la publicación de nuevos contenidos en TikTok, Meta y Pinterest.
+- Seguimiento de la evolución del tráfico de la tienda online a lo largo del tiempo.
 
-+8 clics salientes desde Pinterest.
+Los datos y gráficos históricos, junto con los KPIs y las conclusiones, están disponibles en `04_Analisis_Resultados/`.
 
-Incremento de visualizaciones tras publicar nuevos anuncios en TikTok, Meta y Pinterest.
+## 6. 📁 Estructura del Proyecto
 
-KPIs completos disponibles en 04_Analisis_Resultados/.
+- `03_Marketing_Digital_Multicanal/` → Estrategia y contenido.
+- `02_Estrategia_E-commerce/` → Lead Magnet y automatizaciones.
+- `04_Analisis_Resultados/` → KPIs, gráficos y conclusiones.
 
-6. 📁 Estructura del Proyecto
+## 7. ✔️ Conclusión
 
-03_Marketing_Digital_Multicanal/ → Estrategia y contenido.
-
-02_Estrategia_E-commerce/ → Lead Magnet y automatizaciones.
-
-04_Analisis_Resultados/ → KPIs y conclusiones.
-
-7. ✔️ Conclusión
-
-Este proyecto demuestra un lanzamiento digital real, con optimización continua, creatividad, análisis de datos y mejora del proceso de compra mediante migración de plataforma.
+Este proyecto recoge una experiencia práctica de marketing digital aplicada a un pequeño negocio artesanal. Permite demostrar conocimientos de planificación multicanal, creación de contenido, herramientas digitales y análisis de datos, así como la capacidad de interpretar resultados y extraer conclusiones para la toma de decisiones.
